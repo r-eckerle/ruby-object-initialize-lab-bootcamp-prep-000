@@ -1,4 +1,4 @@
-class radio_button_tag
+class Dog
   def initialize(name, breed = "Mutt")
     @name = name
     @breed = breed
